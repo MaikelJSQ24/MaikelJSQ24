@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Maikel Jordan Segura Quirós
+# 👋 Hola, soy Maikel Jordan Segura Quirós
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Systems+Engineering+Student+%40+UNA;Building+real-world+solutions" alt="Typing SVG" />
 
@@ -14,15 +14,30 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mi
 
 ```text
-💻  Fullstack Developer passionate about building real-world solutions
-🎓  Systems Engineering student (3rd year) at Universidad Nacional de Costa Rica
-🧠  Focused on scalable systems, clean architecture, and UI/UX
-📈  Constantly learning through real projects and teamwork
-🌍  Based in Costa Rica
+💻  Desarrollador full-stack apasionado por crear soluciones para el mundo real.
+🎓  Estudiante de Ingeniería de Sistemas (3er año) en la Universidad Nacional de Costa Rica
+🧠  Centrado en sistemas escalables, arquitectura limpia e interfaz de usuario/experiencia de usuario (UI/UX).
+📈  Aprendizaje constante a través de proyectos reales y trabajo en equipo.
 ```
+
+---
+
+## 🎯 Mas sobre mi
+
+Soy una persona curiosa y apasionada por la tecnología, siempre dispuesta a aprender algo nuevo. Me gusta comprender cómo funcionan las cosas internamente, no solo usarlas.
+
+## 🎯 Intereses y mentalidad
+
+* 🎵 La música es parte de mi día a día.
+* 🧩 Disfruto resolviendo desafíos lógicos y rompecabezas que fortalecen mis habilidades para la resolución de problemas.
+* 📚 Me apasiona aprender sobre arquitectura de software, IA y tecnologías emergentes.
+* 🤝 Trabajo bien en equipo y disfruto colaborar en proyectos con impacto real
+
+> *"No solo escribo código, creo soluciones."*
+
 
 ---
 
@@ -88,6 +103,11 @@
 
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaikelJSQ24&theme=tokyonight)
 
+<br/>
+
+> ⚡ El widget de estadísticas de GitHub solo refleja la actividad de repositorios publicos.
+> Mis commits totales en todos los proyectos: **255+**
+
 </div>
 
 ---
@@ -115,6 +135,7 @@ Sistema completo diseñado para reemplazar procesos manuales en una clínica mé
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🔗 *(Repositorio próximamente)*
 
@@ -146,13 +167,13 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 
 <div align="center">
 
-| 🏅 | Achievement |
+| 🏅 | Logro |
 |----|-------------|
-| 🚀 | Developed real-world software for a medical clinic |
-| 🧩 | Built fullstack and desktop applications from scratch |
-| 📊 | Designed relational and NoSQL database architectures |
-| ⚙️ | Applied MVC and modern software patterns |
-| 🤖 | Integrated AI concepts into production systems |
+| 🚀 | Desarrollando un software real para una clínica médica |
+| 🧩 | Creación de aplicaciones full-stack y de escritorio desde cero |
+| 📊 | Diseño de arquitecturas de bases de datos relacionales y NoSQL |
+| ⚙️ | Aplicación de MVC y patrones de software modernos |
+| 🤖 | Integración de conceptos de IA en sistemas de producción |
 
 </div>
 
@@ -161,9 +182,9 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 ## 🔭 Currently Working On
 
 ```text
-🏥  Medical Platform   →  Expanding features & improving UX
-🧟  Camp System        →  Advanced architecture + AI integration
-🎯  Goal               →  Build production-level systems & grow as a fullstack developer
+🏥 Plataforma médica → Ampliación de funciones y mejora de la experiencia de usuario
+🧟 Sistema de campamento → Arquitectura avanzada + integración de IA
+🎯 Objetivo → Crear sistemas de nivel de producción y crecer como desarrollador full-stack
 ```
 
 ---

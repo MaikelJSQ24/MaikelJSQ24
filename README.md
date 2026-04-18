@@ -86,28 +86,6 @@ Soy una persona curiosa y apasionada por la tecnología, siempre dispuesta a apr
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MaikelJSQ24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikelJSQ24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/>
-
-![Streak](https://streak-stats.demolab.com?user=MaikelJSQ24&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-<br/>
-
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaikelJSQ24&theme=tokyonight)
-
-<br/>
-
-> ⚡ El widget de estadísticas de GitHub solo refleja la actividad de repositorios publicos.
-> Mis commits totales en todos los proyectos: **255+**
-
 </div>
 
 ---
@@ -167,7 +145,7 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 
 <div align="center">
 
-| 🏅 | Logro |
+| 🏅 | Logros |
 |----|-------------|
 | 🚀 | Desarrollando un software real para una clínica médica |
 | 🧩 | Creación de aplicaciones full-stack y de escritorio desde cero |
@@ -179,7 +157,7 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Trabajando actualmente en
 
 ```text
 🏥 Plataforma médica → Ampliación de funciones y mejora de la experiencia de usuario
@@ -194,6 +172,7 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 ### 📫 Let's connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaikelJSQ24-181717?style=for-the-badge&logo=github)](https://github.com/MaikelJSQ24)
+[![Correo](https://img.shields.io/badge/Correo-maik.jsq%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maik.jsq@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaikelJSQ24&style=for-the-badge&color=blue)
 

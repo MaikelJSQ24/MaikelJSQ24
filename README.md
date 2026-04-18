@@ -141,14 +141,6 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 
 ---
 
-💻  Desarrollador Fullstack apasionado por construir soluciones reales
-🎓  Estudiante de Ingeniería en Sistemas (3er año) en la Universidad Nacional de Costa Rica
-🧠  Enfocado en sistemas escalables, arquitectura limpia y UI/UX
-📈  Aprendiendo constantemente a través de proyectos reales y trabajo en equipo
-🌍  Basado en Costa Rica
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">

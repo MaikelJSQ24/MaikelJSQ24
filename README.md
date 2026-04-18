@@ -173,57 +173,6 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 
 ---
 
-## 🚀 Proyectos Actuales
-
-> 🔥 Proyectos reales construidos con impacto práctico
-
-<br/>
-
-### 🏥 Plataforma de Administración Médica — La Fuente
-> **Sistema Web Fullstack · Proyecto de Cliente Real**
-
-Sistema completo diseñado para reemplazar procesos manuales en una clínica médica real, mejorando la eficiencia operativa desde la atención al paciente hasta la gestión administrativa.
-
-| Funcionalidad | Descripción |
-|--------------|-------------|
-| 📅 Citas | Gestión con recordatorios automáticos |
-| 🧾 Pacientes | Registro completo e historial médico |
-| 💰 Finanzas | Control de ingresos y reportes |
-| 📦 Inventario | Alertas inteligentes de stock |
-| 📨 Comunicación | Notificaciones automatizadas |
-
-**Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-🔗 *(Repositorio próximamente)*
-
----
-
-### 🧟 Sistema de Gestión de Campamentos — Programación IV
-> **Sistema Web · Arquitectura Avanzada**
-
-Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Incluye integración de IA para toma de decisiones y despliegue en la nube.
-
-| Funcionalidad | Descripción |
-|--------------|-------------|
-| 👥 Personas | Roles y estados dinámicos |
-| 🍖 Recursos | Comida, agua e inventario |
-| 🗺️ Exploraciones | Logística entre campamentos |
-| 🤖 IA | Toma de decisiones automatizada |
-| 📊 Dashboard | Métricas y análisis en tiempo real |
-
-**Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-🔗 *(Repositorio próximamente)*
-
----
-
 ## 📁 Proyectos Anteriores
 
 > 💡 Proyectos desarrollados a lo largo de mi carrera universitaria

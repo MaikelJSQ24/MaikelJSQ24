@@ -307,6 +307,4 @@ Sistema que permite escribir instrucciones en español usando palabras reservada
 [![GitHub](https://img.shields.io/badge/GitHub-MaikelJSQ24-181717?style=for-the-badge&logo=github)](https://github.com/MaikelJSQ24)
 [![Correo](https://img.shields.io/badge/Correo-maik.jsq%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maik.jsq@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaikelJSQ24&style=for-the-badge&color=blue)
-
 </div>

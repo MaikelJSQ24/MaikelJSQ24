@@ -158,8 +158,6 @@ Sistema multi-campamento con gestión de recursos, roles y lógica avanzada. Inc
 
 <br/>
 
-> ⚡ Las estadísticas solo reflejan actividad en repositorios públicos.  
-> Total de commits en todos mis proyectos: **255+**
 
 </div>
 
